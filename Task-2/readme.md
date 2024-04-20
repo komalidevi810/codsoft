@@ -23,13 +23,13 @@ This is a simple command-line calculator application built using Python. It allo
 3. Run the following command to start the calculator:
 4. The calculator will display a menu with the available operations:
 
-Select operation:
+   Select operation:
 
-- Add
-- Subtract
-- Multiply
-- Divide
-- Exit
+    - Add
+    - Subtract
+    - Multiply
+    - Divide
+    - Exit
 
 5. Enter the corresponding number for the desired operation (e.g., 1 for addition).
 6. Enter the first number when prompted.
